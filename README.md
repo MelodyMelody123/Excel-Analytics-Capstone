@@ -2,7 +2,7 @@
 
 ### An analysis of Sales, Payment and Rating of 3 Supermarket Branches in Myanmar, Jan - Mar 2019
 
-![Screenshot of dashboard](https://i.imgur.com/YIyekmH.png)
+![Screenshot of dashboard](https://i.imgur.com/cLnk1Er.png)
 
 [Link to dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?resource=download)
 
