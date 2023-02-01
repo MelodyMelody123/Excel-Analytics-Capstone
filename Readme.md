@@ -34,5 +34,5 @@ As the saying goes, " Seeing is believing." Interactive Dashboard is really help
 What you'd change
 I would look for data over longer period of time eg 2 years, to gain deeper insights into customer  behaviour and actions to creating better customer experience, so as to boost sales and company branding.
 
-Link to your LinkedIn
+[Linkedin Profile](https://www.linkedin.com/in/faithhung
 
